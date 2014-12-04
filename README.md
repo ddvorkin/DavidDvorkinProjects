@@ -41,26 +41,26 @@ https://github.com/ddvorkin/MarvelAPI-VictorGDavidD-Pd7.git
 
 ##Mini Projects
 
-intro-proj 1
-David Dvorkin, Alex Libman
-7/intro-proj1/DavidDvorkin_AlexLibman
+intro-proj 1 <br>
+David Dvorkin, Alex Libman <br>
+7/intro-proj1/DavidDvorkin_AlexLibman <br> <br>
 
-regexp
-David Dvorkin, David Liang
-7/regexp/David-David 
+regexp <br>
+David Dvorkin, David Liang <br>
+7/regexp/David-David  <br> <br>
 
-intro-proj 2
-David Dvorkin, Victor Gaitour
-7/intro-proj2/Victor-DavidD/ut.py
+intro-proj 2 <br>
+David Dvorkin, Victor Gaitour <br>
+7/intro-proj2/Victor-DavidD/ut.py <br> <br>
 
-MongoDB project
-David Dvorkin, Alex Libman
-7/mongoproj/alex_davidD
+MongoDB project <br>
+David Dvorkin, Alex Libman <br>
+7/mongoproj/alex_davidD <br> <br>
 
-To Do List
-David Dvorkin
-7/todo/David_Dvorkin
+To Do List <br>
+David Dvorkin <br>
+7/todo/David_Dvorkin <br> <br>
 
 Invisible-Cow project <br>
-David Dvorkin, Alex Libman
+David Dvorkin, Alex Libman <br>
 7/cow/alex-david
