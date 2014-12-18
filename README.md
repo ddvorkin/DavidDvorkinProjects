@@ -4,6 +4,19 @@ David Dvorkin
 #Fall Semester
 Period 7
 
+##Final Project:
+
+##Assassin
+
+###Team members:
+David Dvorkin, Victor Gaitour, Kyler Chase, Julian Kalogerakis, Alex Libman
+
+###Description:
+The Assassin game done with photos of friends, complete with face recognition and available on mobile devices.
+
+###put the https clone link here:
+https://github.com/kingalex11235/Assassin.git
+
 ##Main Projects
 
 ##1. Datasearch Project
